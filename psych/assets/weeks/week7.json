@@ -1,24 +1,24 @@
 {
 	"songs": [
 		[
-			"endless",
-			"blake",
+			"4 big guys",
+			"tinkytank",
 			[
-				166,
-				213,
-				255
+				146,
+				113,
+				253
 			]
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "",
+	"weekBackground": "stage",
 	"difficulties": "",
 	"weekCharacters": [
-		"",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"storyName": "Your New Week",
+	"storyName": "placeholder lmao sub to xd_yakel if u see this no the fitness gram",
 	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
